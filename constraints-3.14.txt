@@ -1,6 +1,6 @@
 
 #
-# This constraints file was automatically generated on 2026-10-01T16:06:45.140059
+# This constraints file was automatically generated on 2026-10-02T00:39:28.699520
 # via `uv pip install --resolution highest` for the "main" branch of Airflow.
 # This variant of constraints install uses the HEAD of the branch version for 'apache-airflow' but installs
 # the providers from PIP-released packages at the moment of the constraint generation.
@@ -59,7 +59,7 @@ SQLAlchemy-Utils==0.42.1
 SQLAlchemy==2.1.1
 SecretStorage==3.5.0
 WTForms==3.2.2
-Werkzeug==3.1.8
+Werkzeug==3.1.9
 a2wsgi==1.10.10
 adal==1.2.7
 adbc-driver-manager==1.12.0
@@ -580,7 +580,7 @@ spython==0.3.14
 sqlalchemy-bigquery==1.17.2
 sqlalchemy-spanner==1.20.1
 sqlalchemy_drill==1.1.10
-sqlglot==30.19.0
+sqlglot==30.20.0
 sqlparse==0.6.0
 stack-data==0.6.3
 starlette==1.7.0
