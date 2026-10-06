@@ -1,6 +1,6 @@
 
 #
-# This constraints file was automatically generated on 2026-10-05T23:56:27.558793
+# This constraints file was automatically generated on 2026-10-06T11:13:35.651931
 # via `uv pip install --resolution highest` for the "main" branch of Airflow.
 # This variant of constraints install uses the HEAD of the branch version for 'apache-airflow' but installs
 # the providers from PIP-released packages at the moment of the constraint generation.
@@ -263,7 +263,7 @@ google-cloud-automl==2.21.0
 google-cloud-batch==0.22.4
 google-cloud-bigquery-datatransfer==3.24.0
 google-cloud-bigquery-storage==2.42.0
-google-cloud-bigquery==3.46.0
+google-cloud-bigquery==3.46.1
 google-cloud-bigtable==2.49.0
 google-cloud-build==3.40.0
 google-cloud-compute==1.55.0
@@ -501,9 +501,9 @@ pybreaker==1.4.1
 pycountry==26.2.16
 pycparser==3.0
 pycryptodome==3.23.0
-pydantic-ai-slim==2.52.0
+pydantic-ai-slim==2.53.0
 pydantic-extra-types==2.11.1
-pydantic-graph==2.52.0
+pydantic-graph==2.53.0
 pydantic-settings==2.15.0
 pydantic==2.13.5
 pydantic_core==2.46.5
@@ -541,7 +541,7 @@ pyvespa==1.2.8
 pywinrm==0.5.0
 pyzmq==27.2.0
 qdrant-client==1.19.1
-ray==2.58.0
+ray==2.59.0
 reactivex==5.1.0
 redis==6.4.0
 redshift_connector==2.1.17
@@ -585,7 +585,7 @@ snowflake-sqlalchemy==1.11.1
 sortedcontainers==2.4.0
 soupsieve==2.10
 spython==0.3.14
-sqlalchemy-bigquery==1.17.2
+sqlalchemy-bigquery==1.17.3
 sqlalchemy-spanner==1.20.1
 sqlalchemy_drill==1.1.10
 sqlglot==30.21.0
@@ -633,7 +633,7 @@ universal_pathlib==0.3.10
 uritemplate==4.2.0
 urllib3==2.7.0
 uuid6==2025.0.1
-uv==0.12.21
+uv==0.12.22
 uvicorn==0.54.0
 uvloop==0.23.0
 validators==0.35.0
